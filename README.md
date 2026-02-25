@@ -1,6 +1,8 @@
 # Data Analytics: Forecasting, Automation and Business Intelligence Portfolio
 By Shreya Agrawal
 
+> 🚧 **Portfolio Status:** Currently migrating and sanitizing historical project code from my 8-month internship at Heelium Sports. New modules for Forecasting and Automation  are being added daily. Last Updated: Feb 2026.
+
 This repository centralizes my technical work in statistical modeling, business process automation, and data visualization from my tenure as a Data Analyst Intern in my previous organisation. My work focuses on bridging the gap between raw data and strategic business decisions—leveraging a background in **Business Statistics** and **4 cleared Actuarial Exams (IAI)**.
 
 ## 📁 Portfolio Structure
