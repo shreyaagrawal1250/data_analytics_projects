@@ -21,7 +21,7 @@ This repository centralizes my technical work in statistical modeling, business 
 
 | Domain | Proficiency |
 | :--- | :--- |
-| **Actuarial Science** | Exams Cleared: 4, GLM Frameworks, Risk Modeling, Life Contingencies |
+| **Actuarial Science** | Exams Cleared: 4, GLM Frameworks, Risk Modeling, Pricing Analysis|
 | **Data Science (Python)** | Pandas, Statsmodels, Prophet, Scikit-learn (Regression/Random Forest) |
 | **Automation & APIs** | Google Apps Script, REST APIs, Gspread |
 | **BI & Visualization** | Google Looker Studio, Google Sheets, Power BI (Learning) |
