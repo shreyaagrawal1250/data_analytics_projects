@@ -5,7 +5,7 @@ This repository centralizes my technical work in statistical modeling, business 
 
 ## 📁 Portfolio Structure
 
-* **[Forecasting-Models/](https://github.com/YourUsername/actuarial-data-analytics-suite/tree/main/Forecasting-Models)**
+* **[Forecasting-Models/](https://github.com/shreyaagrawal1250/data_analytics_projects/tree/main/forecasting-models)**
     * **Goal:** Comparing time-series models (SARIMA, Prophet, Holt-Winters, GLM) to optimize purchase order decisions for stategic inventory management and pricing.
     * **Impact:** Reduced forecast error to 5-10% and automated purchase order workflows.
 * **[Automation-Scripts/](https://github.com/YourUsername/actuarial-data-analytics-suite/tree/main/Automation-Scripts)**
