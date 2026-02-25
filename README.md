@@ -8,10 +8,10 @@ This repository centralizes my technical work in statistical modeling, business 
 * **[Forecasting-Models/](https://github.com/shreyaagrawal1250/data_analytics_projects/tree/main/forecasting-models)**
     * **Goal:** Comparing time-series models (SARIMA, Prophet, Holt-Winters, GLM) to optimize purchase order decisions for stategic inventory management and pricing.
     * **Impact:** Reduced forecast error to 5-10% and automated purchase order workflows.
-* **[Automation-Scripts/](https://github.com/YourUsername/actuarial-data-analytics-suite/tree/main/Automation-Scripts)**
+* **[Automation-Scripts/](https://github.com/shreyaagrawal1250/data_analytics_projects/tree/main/Automation-Scripts)**
     * **Goal:** End-to-end data pipelines using Python, SQL, and Google Apps Script.
     * **Impact:** Saved 10+ manual hours/week and eliminated data entry errors in financial reporting.
-* **[Dashboards/](https://github.com/YourUsername/actuarial-data-analytics-suite/tree/main/Dashboards)**
+* **[Dashboards/](https://github.com/shreyaagrawal1250/data_analytics_projects/tree/main/Dashboards)**
     * **Goal:** Monitoring SKU-level risk and contribution margins using Looker Studio.
     * **Impact:** Provided stakeholders with real-time visibility into high-risk/low-margin products.
 
