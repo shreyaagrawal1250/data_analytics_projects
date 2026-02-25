@@ -27,7 +27,7 @@ This repository centralizes my technical work in statistical modeling, business 
 | **BI & Visualization** | Google Looker Studio, Google Sheets, Power BI (Learning) |
 
 
-## 📈 Key Project Spotlight: Demand Forecasting Suite
+## 📈 Key Project Spotlight: Demand Forecasting Logic
 In my tenure at Heelium Sports, I developed a model selection logic that chose the optimal algorithm based on data density and seasonality:
 * **SARIMA:** Utilized for high-seasonality products with 24+ months of history.
 * **Holt-Winters:** Applied to baseline items with steady growth trends.
